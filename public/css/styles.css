@@ -136,7 +136,9 @@ ul {
     border-radius: 15px;
     box-shadow: 0 3px lightgrey;
     height: 15%;
-    padding: 5em;
+    padding-bottom: 5em;
+    padding-right: 5em;
+    padding-left: 5em;
 }
 
 .instructions {
